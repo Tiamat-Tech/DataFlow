@@ -65,7 +65,7 @@ Turn raw data into high-quality LLM training datasets.🔧
 
 
 ## 📰 0. News
-* **[2026-07-13] 🚀 DataFlow-Agent and DataFlow-WebUI receive major upgrades!** [DataFlow-Agent](https://github.com/OpenDCAI/DataFlow-Agent) now turns Agent trajectories into training-ready data, while [DataFlow-WebUI](https://github.com/OpenDCAI/DataFlow-webui) supports AI-agent-assisted pipeline construction, management, and execution.
+* **[2026-07-13] 🚀 DataFlow-WebUI receives major upgrades!** [DataFlow-WebUI](https://github.com/OpenDCAI/DataFlow-webui) supports AI-agent-assisted pipeline construction, management, and execution.
 * **[2026-05-22] DataFlow-Skills is now available!**
   A collection of skills and tutorials for working with DataFlow. 👉 [DataFlow-Skills](https://github.com/OpenDCAI/DataFlow-Skills)
 * **[2026-02-02] 🖥️ DataFlow WebUI is now available!**
@@ -131,8 +131,6 @@ Through an `operator-based` design, DataFlow turns the entire data cleaning work
 ## 🛠️ 3. DataFlow Suite 
 The DataFlow Suite provides the essential infrastructure to automate and scale LLM data preparation with DataFlow main repository. It comprises four tightly integrated layers:
 - [DataFlow-Skills](https://github.com/OpenDCAI/DataFlow-Skills) – A collection of skills and tutorials for working with DataFlow, covering operator development, pipeline construction, and best practices for data-centric AI.
-
-- [DataFlow-Agent](https://github.com/OpenDCAI/DataFlow-Agent) – A toolkit for generating and optimizing Agent trajectory data. It records Agent reasoning, tool calls, observations, and final responses, then scores, selects, filters, and refines trajectories into training-ready datasets for tool-using LLMs.
   
 - [DataFlow-WebUI](https://github.com/OpenDCAI/DataFlow-webui) – A visual and AI Agent assisted workspace for building, managing, and running DataFlow pipelines. It combines drag-and-drop pipeline editing with natural-language interaction, enabling users to construct and execute data workflows more efficiently.
 
